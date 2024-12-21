@@ -26,5 +26,5 @@ int main() {
         std::cout << "Произвольный четырехугольник" << std::endl;
     }
 
-    return 0;
+    return 0; 
 }
