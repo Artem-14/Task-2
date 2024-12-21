@@ -17,5 +17,5 @@ int main() {
         std::cout << "Число не делится на 3" << std::endl;
     }
 
-    return 0;
+    return 0; 
 }
