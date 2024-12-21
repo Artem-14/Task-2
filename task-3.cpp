@@ -29,6 +29,6 @@ int main() {
     else {
         std::cout << "Тупоугольный" << std::endl;
     }
-
+ 
     return 0;
 }
