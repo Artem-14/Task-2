@@ -14,7 +14,7 @@ int main() {
     }
     else if (a == b && b == c) {
         std::cout << "Равносторонний" << std::endl;
-    }
+    } 
     else if ((a == b) || (a == c) || (b == c)) {
         std::cout << "Равнобедренный" << std::endl;
     }
