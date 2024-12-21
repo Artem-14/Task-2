@@ -16,5 +16,5 @@ int main() {
         std::cout << "Шар не пройдет" << std::endl;
     }
 
-    return 0;
+    return 0; 
 }
