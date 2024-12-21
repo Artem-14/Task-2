@@ -21,5 +21,5 @@ int main() {
         std::cout << "Посылка не помещается" << std::endl;
     }
 
-    return 0;
+    return 0; 
 }
