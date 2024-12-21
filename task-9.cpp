@@ -16,5 +16,5 @@ int main() {
     if (m % k == 0) std::cout << m << " делится на " << k << std::endl;
     if (m % l == 0) std::cout << m << " делится на " << l << std::endl;
 
-    return 0;
+    return 0; 
 }
